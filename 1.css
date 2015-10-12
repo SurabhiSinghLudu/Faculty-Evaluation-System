@@ -1,0 +1,32 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+.clear
+{
+	padding:0px;
+    margin:0px;
+    border:0px;
+}
+#mainn
+{
+ background-color:#930;
+ width:auto;
+ height:100px;
+ }
+ #logo
+ {
+	 float:left;
+ }
+ #f1
+ {color:#FFF;
+ font-family:"Lucida Console", Monaco, monospace;
+ font-size:54px;
+ }
+ /* feedback*/
+ th
+ {
+	 text-align:left;
+ }
